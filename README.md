@@ -3,6 +3,17 @@
 # [Placement_Guide](https://www.youtube.com/channel/UCVyCaPU0sM9FopyMMLqohWQ)
 
 <p align="center">
+<h2>Download our App</h2>
+ <a href="https://play.google.com/store/apps/details?id=co.barney.gkyon">
+       <img align="left" height=100 src="https://play-lh.googleusercontent.com/_Gy1eEk1Vg5vAX-EOG7TICBga2bhyFdPiNY1gIfL4IYlp1XFfuMtKhPZh0wJeGc4NMo=w480-h960-rw">
+ </a>
+</p>
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
  <h2>Join Us on Telegram & Facebook</h2>
  <a href="">
        <img align="left" height=100 src="https://media.giphy.com/media/wlR4kWTnwEyY8RwHKM/giphy.gif">
