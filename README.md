@@ -42,7 +42,7 @@
 ---
 # Table of contents
 
-1.) [Introduction to Python]
+1.) [Introduction to Python]()
 
 2.) [Variables expressions and statements](https://colab.research.google.com/github/PlacementGuide1/PythonCourse/blob/main/Lecture1_Variables_expressions_and_statements.ipynb)
 
