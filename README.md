@@ -101,6 +101,6 @@
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Divanshu v](https://github.com/diavnshu-verma/) <br> <img src="https://github.com/divanshu-verma.png" width="100" height="100">                                                                     | India          | Python                 | [Placement Guid](https://www.youtube.com/channel/UCVyCaPU0sM9FopyMMLqohWQ) <br> [Linkedin](https://www.linkedin.com/in/divanshu-verma-7968434a/)                                                              |
 <div align="right">
-    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+    <b><a href="#Placement Guide">⬆️ Back to Top</a></b>
 </div>
 <br/>
