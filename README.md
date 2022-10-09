@@ -14,9 +14,9 @@
 <br>
 
 <p align="center">
- <h2>Join Us on Telegram & Facebook</h2>
- <a href="">
-       <img align="left" height=100 src="https://media.giphy.com/media/wlR4kWTnwEyY8RwHKM/giphy.gif">
+ <h2>Join Us on WhatsApp & Facebook</h2>
+ <a href="https://chat.whatsapp.com/FlvEjqblwleB8gugrvGSmk">
+       <img align="left" height=100 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwhatsapp-gifs&psig=AOvVaw1uiHxetZ7aaL-ciRpCJse2&ust=1665412863081000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMj-1sKw0_oCFQAAAAAdAAAAABAT">
  </a>
  <a href="https://www.facebook.com/placementguide.in">
        <img align="left" height=100 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
